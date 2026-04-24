@@ -60,7 +60,7 @@ Lancez le fichier `Main.java`.
 ## Exemple d’exécution
 
 ```text id="3e9k2f"
-Nombre total de mots : 1250
+Nombre total de mots : 109
 ```
 
 ## Améliorations possibles
